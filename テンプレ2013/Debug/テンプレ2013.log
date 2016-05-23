@@ -1,0 +1,27 @@
+﻿2016/05/23 22:27:33 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\テンプレ2013\テンプレ2013.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /I"C:\boost\include\boost-1_57" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyFunc.cpp Scene.cpp effect.cpp myglobal.cpp time.cpp
+         スキップ中... (関連する変更は検出されませんでした)
+         time.cpp
+         myglobal.cpp
+         effect.cpp
+         Scene.cpp
+         MyFunc.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\Debug\テンプレ2013.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /LIBPATH:"C:\boost\include\boost-1_57" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\Debug\テンプレ2013.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\Debug\テンプレ2013.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\file.obj
+         Debug\Graph.obj
+         Debug\main.obj
+         Debug\MyFunc.obj
+         Debug\myglobal.obj
+         Debug\Player.obj
+         Debug\Scene.obj
+         Debug\effect.obj
+         Debug\time.obj
+         テンプレ2013.vcxproj -> C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\Debug\テンプレ2013.exe
+     1>プロジェクト "C:\Users\saho\Documents\ccs\2014\自作ゲーム\ピカイア飼育キット\ピカイア飼育キット\テンプレ2013\テンプレ2013.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:04.37
